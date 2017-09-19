@@ -219,6 +219,8 @@ PRODUCT_COPY_FILES += \
     vendor/zuk/z2_plus/proprietary/vendor/lib/libmmcamera_isp_demosaic47.so:system/vendor/lib/libmmcamera_isp_demosaic47.so \
     vendor/zuk/z2_plus/proprietary/vendor/lib/libmmcamera_isp_color_xform_video46.so:system/vendor/lib/libmmcamera_isp_color_xform_video46.so \
     vendor/zuk/z2_plus/proprietary/vendor/lib/libchromatix_s5k2m8sx_hfr_120_dw9767.so:system/vendor/lib/libchromatix_s5k2m8sx_hfr_120_dw9767.so \
+    vendor/zuk/z2_plus/proprietary/vendor/lib/libHui.so:system/vendor/lib/libHui.so \
+    vendor/zuk/z2_plus/proprietary/vendor/lib/libHu.so:system/vendor/lib/libHu.so \
     vendor/zuk/z2_plus/proprietary/vendor/lib/libmmcamera_isp_clamp_viewfinder40.so:system/vendor/lib/libmmcamera_isp_clamp_viewfinder40.so \
     vendor/zuk/z2_plus/proprietary/vendor/lib/libmmcamera_facedetection_lib.so:system/vendor/lib/libmmcamera_facedetection_lib.so \
     vendor/zuk/z2_plus/proprietary/vendor/lib/libmmcamera_hvx_grid_sum.so:system/vendor/lib/libmmcamera_hvx_grid_sum.so \
