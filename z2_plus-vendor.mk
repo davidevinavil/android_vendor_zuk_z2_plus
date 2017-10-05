@@ -527,7 +527,7 @@ PRODUCT_COPY_FILES += \
     vendor/zuk/z2_plus/proprietary/vendor/bin/qseeproxydaemon:system/vendor/bin/qseeproxydaemon \
     vendor/zuk/z2_plus/proprietary/vendor/bin/thermal-engine:system/vendor/bin/thermal-engine \
     vendor/zuk/z2_plus/proprietary/vendor/bin/pd-mapper:system/vendor/bin/pd-mapper \
-    vendor/zuk/z2_plus/proprietary/vendor/lib/hw/camera.msm8996.so:system/vendor/lib/hw/camera.msm8996.so \
+    vendor/zuk/z2_plus/proprietary/vendor/lib/hw/camera.vendor.msm8996.so:system/vendor/lib/hw/camera.vendor.msm8996.so \
     vendor/zuk/z2_plus/proprietary/lib/libmmjpeg_interface.so:system/lib/libmmjpeg_interface.so \
     vendor/zuk/z2_plus/proprietary/lib/libmmcamera_interface.so:system/lib/libmmcamera_interface.so \
     vendor/zuk/z2_plus/proprietary/lib/libextmedia_jni.so:system/lib/libextmedia_jni.so \
